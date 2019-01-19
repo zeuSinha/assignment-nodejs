@@ -1,0 +1,15 @@
+{
+  "name": "git-userlist",
+  "version": "1.0.0",
+  "description": "Job assingment to display latest github users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Sinha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.5"
+  }
+}
